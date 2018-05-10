@@ -4,7 +4,7 @@
 ### by: Baiyue cao (bc1561)
 
 ### Demo:
-![alt text]("https://github.com/SPTKL/data_viz_project/blob/master/images/demo.gif")
+![alt text](https://github.com/SPTKL/data_viz_project/blob/master/images/demo.gif)
 
 #### Objective:
 This project aims to visualize 311 complaints in new york city in May in 2015. Because of the large size of the dataset, we choose to use May 2015 as a sample for our following visualization. This project is a trial example for my 311 capstone project visualizations.
