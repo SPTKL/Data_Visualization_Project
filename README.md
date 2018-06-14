@@ -1,6 +1,5 @@
-# data_viz_project
+# Data_Visualization_Project
 
-## this is a readme for the data visualization project
 ### by: Baiyue cao (bc1561)
 
 ### Demo:
